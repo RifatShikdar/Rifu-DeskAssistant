@@ -27,8 +27,8 @@ unsigned long lastPomoTick = 0;
 
 // Wi-Fi & NTP Settings
 
-const char* ssid     = "your_wifi_ssid";
-const char* password = "your_wifi_password";
+const char* ssid     = "YOUR_WIFI_NAME";
+const char* password = "YOUR_WIFI_PASSWORD";
 const char* ntpServer = "pool.ntp.org";
 
 // Timezone Offset: GMT+6 (Bangladesh) = 21600 seconds
