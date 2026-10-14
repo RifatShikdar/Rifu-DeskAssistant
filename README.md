@@ -167,35 +167,7 @@ The ESP32 coordinates the main functions of the device:
 5. **Audio feedback:** Generates buzzer patterns for user interactions and timer completion.
 6. **Eye animation:** Updates blinking, pupil movement, and facial expressions using elapsed-time checks.
 
-## 📁 Suggested Repository Structure
 
-```text
-Rifu-DeskAssistant/
-├── ESP32_OLED_Desk_Companion/
-│   └── ESP32_OLED_Desk_Companion.ino
-├── images/
-│   ├── project-front.jpg
-│   ├── circuit-connection.png
-│   └── oled-animation.jpg
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
-This is a suggested structure. Adjust the folder and sketch names to match the files actually in your repository.
-
-For a more professional GitHub presentation, add real photographs of your hardware, a wiring diagram, and a short GIF or video showing the animated eyes and touch controls.
-
-## 🔮 Future Improvements
-
-- [ ] Add customizable Pomodoro durations and break intervals.
-- [ ] Add more touch gestures and interactive controls.
-- [ ] Improve eye animation with additional expressions and smoother movement.
-- [ ] Add a low-power sleep mode.
-- [ ] Add a Wi-Fi configuration interface.
-- [ ] Save user settings using ESP32 NVS.
-- [ ] Add sound effects and improved buzzer control.
-- [ ] Design a 3D-printed enclosure.
 
 ## 🤝 Contributing
 
