@@ -26,10 +26,9 @@ bool pomoRunning = false;
 unsigned long lastPomoTick = 0;
 
 // Wi-Fi & NTP Settings
-//const char* ssid     = "Winterfell";
-//const char* password = "omor21301";
-const char* ssid     = "MESL";
-const char* password = "torepasskdise?";
+
+const char* ssid     = "your_wifi_ssid";
+const char* password = "your_wifi_password";
 const char* ntpServer = "pool.ntp.org";
 
 // Timezone Offset: GMT+6 (Bangladesh) = 21600 seconds
