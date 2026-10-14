@@ -173,9 +173,7 @@ The ESP32 coordinates the main functions of the device:
 
 Suggestions, bug reports, and contributions are welcome! Feel free to fork the repository, improve the animations, add features, or optimize the embedded code.
 
-## 📜 License
 
-Choose an open-source license that fits your goals and include the corresponding `LICENSE` file in this repository. For example, the [MIT License](https://opensource.org/license/mit) permits reuse and modification subject to its terms.
 
 ## 👨‍💻 Author
 
