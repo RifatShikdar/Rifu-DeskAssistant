@@ -11,8 +11,8 @@
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 
 // Wi-Fi Credentials
-const char* ssid     = "MESL";
-const char* password = "tuikimember";
+const char* ssid     = "your_wifi_ssid";
+const char* password = "your_wifi_password";
 
 // NTP Server and Time Zone Configuration
 const char* ntpServer = "pool.ntp.org";
