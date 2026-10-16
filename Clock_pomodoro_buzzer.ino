@@ -62,12 +62,9 @@ unsigned long lastPomoTick = 0;
 // ============================================================
 // WIFI & NTP
 // ============================================================
-//const char* ssid = "MESL";
-//const char* password = "torepasskdise?";
 
-
-const char* ssid = "Winterfell";
-const char* password = "omor21301";
+const char* ssid = "Your_wifi_name";
+const char* password = "Your_wifi_password";
 const char* ntpServer = "pool.ntp.org";
 
 // Bangladesh GMT +6
